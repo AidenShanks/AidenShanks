@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aiden</h1>
 <h3 align="center">A Fullstack Developer at Trails Offroad with a passion for AR and VR</h3>
 
-- 🌱 I’m currently learning **VisionOS, Reality Composer Pro, and Blender**
+- 🌱 I’m currently learning **VisionOS, Reality Composer Pro, Unity, and Blender**
 
 - 💬 Ask me about **Vue, Django**
 
