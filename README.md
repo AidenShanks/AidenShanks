@@ -1,6 +1,6 @@
 # AidenShanks
 <h1 align="center">Hi 👋, I'm Aiden</h1>
-<h3 align="center">Cofounder of SortaInvisible - A studio that 0 to 1 solutions for AR and VR projects and ideas!</h3>
+<h3 align="center">Cofounder of SortaInvisible - A studio that provides 0 to 1 solutions for AR and VR projects and ideas!</h3>
 
 - 🌱 We provide services for any of these platforms - **VisionOS, AndroidXR, and SnapOS**
 
