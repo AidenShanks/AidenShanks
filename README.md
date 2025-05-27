@@ -4,7 +4,7 @@
 
 - 🌱 We provide services for any of these platforms - **VisionOS, AndroidXR, HorizonOS, and SnapOS**
 
-- 💬 We work with a variety of tools with the main being **Unity, Lens Studio, Blender, and Xcode**
+- 💬 We work with a variety of tools with the main ones being **Unity, Lens Studio, Blender, and Xcode**
 
 - ✌️ We specialize in colocated and multiplayer experiences
 
