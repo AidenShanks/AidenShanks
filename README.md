@@ -1,10 +1,10 @@
 # AidenShanks
 <h1 align="center">Hi 👋, I'm Aiden</h1>
-<h3 align="center">A Fullstack Developer at Trails Offroad with a passion for AR and VR</h3>
+<h3 align="center">Cofounder of SortaInvisible - A studio that 0 to 1 solutions for AR and VR projects and ideas!</h3>
 
-- 🌱 I’m currently learning **VisionOS, Reality Composer Pro, Unity, and Blender**
+- 🌱 We provide services for any of these platforms - **VisionOS, AndroidXR, and SnapOS**
 
-- 💬 Ask me about **Vue, Django**
+- 💬 We work with a variety of tools with the main being **Unity, Lens Studio, Blender, and Xcode**
 
 - ⚡ Fun fact **I love coffee, climbing, and Pokémon**
 
